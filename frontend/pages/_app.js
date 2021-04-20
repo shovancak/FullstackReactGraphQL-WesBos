@@ -1,3 +1,5 @@
+/* eslint-disable react/jsx-props-no-spreading */
+/* eslint-disable react/prop-types */
 import NProgress from 'nprogress';
 import Router from 'next/router';
 import Page from '../components/Page';
